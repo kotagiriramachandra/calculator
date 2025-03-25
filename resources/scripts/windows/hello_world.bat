@@ -1,2 +1,2 @@
 @echo off
-echo "hello $1. Today is $2."
+echo hello $1. Today is $2.
